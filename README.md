@@ -88,6 +88,6 @@
 
 
 ## Contact
-We welcome contributions from researchers and developers to enhance this **'Awesome Compound AI System Optimization Methods'** collection.
-If you know of relevant papers that should be included in this repository, please reach out to us.
-Contact: r12946015@ntu.edu.tw / r13922053@ntu.edu.tw
+We welcome contributions from researchers and developers to enhance this **'Awesome Compound AI System Optimization Methods'** collection.    
+If you know of relevant papers that should be included in this repository, please reach out to us.    
+Contact: r12946015@ntu.edu.tw / r13922053@ntu.edu.tw  
