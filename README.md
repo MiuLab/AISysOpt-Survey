@@ -32,6 +32,28 @@
 - [Fixed Structure, Numerical Signals](#fixed-structure-numerical-signals)
 - [Flexible Structure, NL Feedback](#flexible-structure-nl-feedback)
 - [Flexible Structure, Numerical Signals](#flexible-structure-numerical-signals)
+
+******
+## Detailed Classification of Learning Signals
+
+▼ Learning Signals are classified into two categories, with Numerical Signals further divided by their utilization schemes.
+<p align="center">
+  <img src="./imgs/learning_signals.jpg" alt="taxonomy" width="750"/>
+</p>
+
+**📊 System Metrics**  
+```
+(a) Devise rule-based algorithms that directly learn from raw system performance metrics  
+```
+
+**🎯 Formalized Training Objectives**    
+Transform system evaluation results into formalized training objectives:  
+```
+(b1) Supervised Fine-tuning (SFT) losses  
+(b2) Reinforcement Learning (RL) reward functions  
+(b3) Direct Preference Optimization (DPO) losses
+```
+    
 ******
 
 ### <a id="fixed-structure-nl-feedback"></a>🔒🗨️ Fixed Structure, NL Feedback
@@ -49,16 +71,16 @@
 
 ### <a id="fixed-structure-numerical-signals"></a>🔒🔢 Fixed Structure, Numerical Signals
 
-| **Paper Title** | **Date** | **Conference/Journal** |
-| -------------- | :------: | :--------------------: |
-| [Aligning Compound AI Systems via System-level DPO](https://arxiv.org/abs/2502.17721) | 2025/02 | AAAI |
-| [MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning](https://arxiv.org/abs/2502.18439) | 2025/02 | arXiv |
-| [Optimizing Model Selection for Compound AI Systems](https://arxiv.org/abs/2502.14815) | 2025/02 | arXiv |
-| [SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning](https://arxiv.org/abs/2502.04780) | 2025/02 | arXiv |
-| [Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains](https://arxiv.org/abs/2501.05707) | 2025/01 | ICLR |
-| [Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](https://arxiv.org/abs/2407.10930) | 2024/07 | EMNLP |
-| [Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs](https://arxiv.org/abs/2406.11695) | 2024/06 | EMNLP |
-| [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714) | 2023/10 | ICLR |
+| **Paper Title** | **Date** | **Conference/Journal** | **Signals Type** |
+| -------------- | :------: | :--------------------: |:--------------------: |
+| [Aligning Compound AI Systems via System-level DPO](https://arxiv.org/abs/2502.17721) | 2025/02 | AAAI | b3 |
+| [MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning](https://arxiv.org/abs/2502.18439) | 2025/02 | arXiv | b2 |
+| [Optimizing Model Selection for Compound AI Systems](https://arxiv.org/abs/2502.14815) | 2025/02 | arXiv | a |
+| [SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning](https://arxiv.org/abs/2502.04780) | 2025/02 | arXiv | b1 |
+| [Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains](https://arxiv.org/abs/2501.05707) | 2025/01 | ICLR | b1 |
+| [Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](https://arxiv.org/abs/2407.10930) | 2024/07 | EMNLP | a, b1 |
+| [Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs](https://arxiv.org/abs/2406.11695) | 2024/06 | EMNLP | a |
+| [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714) | 2023/10 | ICLR | a | 
 
 ******
 
@@ -75,16 +97,16 @@
 
 ### <a id="flexible-structure-numerical-signals"></a>🔓🔢 Flexible Structure, Numerical Signals
 
-| **Paper Title** | **Date** | **Conference/Journal** |
-| -------------- | :------: | :--------------------: |
-| [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://arxiv.org/abs/2504.15257) | 2025/04 | arXiv |
-| [Weak-for-Strong: Training Weak Meta-Agent to Harness Strong Executors](https://arxiv.org/abs/2504.04785) | 2025/04 | arXiv |
-| [MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems](https://arxiv.org/abs/2503.03686) | 2025/03 | arXiv |
-| [ScoreFlow: Mastering LLM Agent Workflows via Score-based Preference Optimization](https://arxiv.org/abs/2502.04306) | 2025/02 | arXiv |
-| [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/abs/2501.05707) | 2025/01 | ICML |
-| [AutoFlow: Automated Workflow Generation for Large Language Model Agents](https://arxiv.org/abs/2407.12821) | 2024/07 | arXiv |
-| [Language Agents as Optimizable Graphs](https://arxiv.org/abs/2402.16823) | 2024/02 | ICML |
-| [A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration](https://arxiv.org/abs/2310.02170) | 2023/10 | COLM |
+| **Paper Title** | **Date** | **Conference/Journal** | **Signals Type** |
+| -------------- | :------: | :--------------------: |:--------------------: |
+| [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://arxiv.org/abs/2504.15257) | 2025/04 | arXiv | b1, b2 |
+| [Weak-for-Strong: Training Weak Meta-Agent to Harness Strong Executors](https://arxiv.org/abs/2504.04785) | 2025/04 | arXiv | b2 |
+| [MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems](https://arxiv.org/abs/2503.03686) | 2025/03 | arXiv | b1 |
+| [ScoreFlow: Mastering LLM Agent Workflows via Score-based Preference Optimization](https://arxiv.org/abs/2502.04306) | 2025/02 | arXiv | b3 |
+| [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/abs/2501.05707) | 2025/01 | ICML | b2 |
+| [AutoFlow: Automated Workflow Generation for Large Language Model Agents](https://arxiv.org/abs/2407.12821) | 2024/07 | arXiv | b2 |
+| [Language Agents as Optimizable Graphs](https://arxiv.org/abs/2402.16823) | 2024/02 | ICML | b2 |
+| [A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration](https://arxiv.org/abs/2310.02170) | 2023/10 | COLM | a |
 ******
 
 
