@@ -40,6 +40,7 @@
 | [LLM-AutoDiff: Auto-Differentiate Any LLM Workflow](https://arxiv.org/abs/2501.16673) | 2025/01 | arXiv |
 | [How to Correctly do Semantic Backpropagation on Language-based Agentic Systems](https://arxiv.org/abs/2412.03624) | 2024/12 | arXiv |
 | [Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization](https://arxiv.org/abs/2412.03092) | 2024/12 | arXiv |
+| [metaTextGrad: Automatically optimizing language model optimizers](https://openreview.net/forum?id=yzieYIT9hu) | 2024/10 | NeurIPS |
 | [AIME: AI System Optimization via Multiple LLM Evaluators](https://arxiv.org/abs/2410.03131) | 2024/10 | arXiv |
 | [Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs](https://arxiv.org/abs/2406.16218) | 2024/06 | NeurIPS |
 | [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496) | 2024/06 | Nature |
@@ -52,6 +53,7 @@
 | -------------- | :------: | :--------------------: |
 | [Aligning Compound AI Systems via System-level DPO](https://arxiv.org/abs/2502.17721) | 2025/02 | AAAI |
 | [MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning](https://arxiv.org/abs/2502.18439) | 2025/02 | arXiv |
+| [Optimizing Model Selection for Compound AI Systems](https://arxiv.org/abs/2502.14815) | 2025/02 | arXiv |
 | [SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning](https://arxiv.org/abs/2502.04780) | 2025/02 | arXiv |
 | [Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains](https://arxiv.org/abs/2501.05707) | 2025/01 | ICLR |
 | [Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](https://arxiv.org/abs/2407.10930) | 2024/07 | EMNLP |
