@@ -1,6 +1,6 @@
 # Awesome Compound AI System Optimization Methods
 
-🤩 A comprehensive list of papers about **Compound AI Systems Optimization: A Survey of Methods, Challenges, and Future Directions**.
+🤩 A comprehensive list of papers about **[Compound AI Systems Optimization: A Survey of Methods, Challenges, and Future Directions](https://arxiv.org/abs/2506.08234)**.
 
 ▼ High-level view of a compound AI system and its optimization
 <p align="center">
