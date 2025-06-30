@@ -79,6 +79,7 @@ Transform system evaluation results into formalized training objectives:
 | [SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning](https://arxiv.org/abs/2502.04780) | 2025/02 | arXiv | b1 |
 | [Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains](https://arxiv.org/abs/2501.05707) | 2025/01 | ICLR | b1 |
 | [Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](https://arxiv.org/abs/2407.10930) | 2024/07 | EMNLP | a, b1 |
+| [Towards AutoAI: Optimizing a Machine Learning System with Black-box and Differentiable Components](https://openreview.net/forum?id=JVhUR8q27o) | 2024/05 | ICML | a |
 | [Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs](https://arxiv.org/abs/2406.11695) | 2024/06 | EMNLP | a |
 | [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714) | 2023/10 | ICLR | a | 
 
