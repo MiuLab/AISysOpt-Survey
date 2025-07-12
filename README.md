@@ -100,6 +100,7 @@ Transform system evaluation results into formalized training objectives:
 
 | **Paper Title** | **Date** | **Conference/Journal** | **Signals Type** |
 | -------------- | :------: | :--------------------: |:--------------------: |
+| [MasHost Builds It All: Autonomous Multi-Agent System Directed by Reinforcement Learning](https://arxiv.org/abs/2506.08507) | 2025/06 | arXiv | b2 |
 | [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://arxiv.org/abs/2504.15257) | 2025/04 | arXiv | b1, b2 |
 | [Weak-for-Strong: Training Weak Meta-Agent to Harness Strong Executors](https://arxiv.org/abs/2504.04785) | 2025/04 | arXiv | b2 |
 | [MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems](https://arxiv.org/abs/2503.03686) | 2025/03 | arXiv | b1 |
