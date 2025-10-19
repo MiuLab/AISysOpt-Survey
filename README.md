@@ -7,17 +7,17 @@
   <img src="./imgs/system_optimization.jpg" alt="Flow Diagram" width="700"/>
 </p>
 
-## 💥 News 💥
-- [**Aug 21, 2025**] The survey has been accepted to EMNLP 2025! The camera-ready version has been updated on arXiv.
-- [**June 9, 2025**] Our paper is avialble on [arXiv](https://arxiv.org/abs/2506.08234) and [Huggingface](https://huggingface.co/papers/2506.08234).
-
-
 > [!Note]
 > **Contributions welcome**
 > - Open an issue or PR to add new or missing papers.  
 > - If your paper is accepted by venues, you may consider updating the relevant information.
 > - If you think your paper is more suitable for another category, submit a PR or [contact us](mailto:r12946015@ntu.edu.tw,r13922053@ntu.edu.tw).  
 > - Thank you for helping us maintain a comprehensive and accurate survey!
+
+
+## 💥 News 💥
+- [**Aug 21, 2025**] Our survey has been accepted to EMNLP 2025! The camera-ready version has been updated.  
+- [**June 9, 2025**] Our paper is avialble on [arXiv](https://arxiv.org/abs/2506.08234) and [Huggingface](https://huggingface.co/papers/2506.08234).
 
 ---
 
