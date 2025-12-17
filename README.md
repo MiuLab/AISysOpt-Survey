@@ -16,7 +16,7 @@
 
 
 ## 💥 News 💥
-- [**Dec 17, 2025**] New papers were added to our survey list: [AgenetNet](https://arxiv.org/abs/2504.00587), [Optimas](https://arxiv.org/abs/2507.03041), [TextualVerifier](https://arxiv.org/abs/2511.03739), and [A^2Flow](https://arxiv.org/abs/2511.20693) 
+- [**Dec 17, 2025**] New papers were added to our survey list: [AgenetNet](https://arxiv.org/abs/2504.00587), [MasHost](https://arxiv.org/abs/2506.08507), [Optimas](https://arxiv.org/abs/2507.03041), [TextualVerifier](https://arxiv.org/abs/2511.03739), and [A^2Flow](https://arxiv.org/abs/2511.20693) 
 - [**Aug 21, 2025**] Our survey has been accepted to EMNLP 2025! The camera-ready version has been updated.  
 - [**June 9, 2025**] Our paper is avialble on [arXiv](https://arxiv.org/abs/2506.08234) and [Huggingface](https://huggingface.co/papers/2506.08234).
 
