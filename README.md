@@ -16,6 +16,7 @@
 
 
 ## 💥 News 💥
+- [**Dec 17, 2025**] New papers were added to our survey list: [AgenetNet](https://arxiv.org/abs/2504.00587), [Optimas](https://arxiv.org/abs/2507.03041), [TextualVerifier](https://arxiv.org/abs/2511.03739), and [A^2Flow](https://arxiv.org/abs/2511.20693) 
 - [**Aug 21, 2025**] Our survey has been accepted to EMNLP 2025! The camera-ready version has been updated.  
 - [**June 9, 2025**] Our paper is avialble on [arXiv](https://arxiv.org/abs/2506.08234) and [Huggingface](https://huggingface.co/papers/2506.08234).
 
@@ -63,6 +64,7 @@ Transform system evaluation results into formalized training objectives:
 ### <a id="fixed-structure-nl-feedback"></a>🔒🗨️ Fixed Structure, NL Feedback
 | **Paper Title** | **Date** | **Conference/Journal** |
 | -------------- | :------:|:--------------------:|
+| [TextualVerifier: Verify TextGrad Step-by-Step](https://arxiv.org/abs/2511.03739) | 2025/10 | arXiv |
 | [LLM-AutoDiff: Auto-Differentiate Any LLM Workflow](https://arxiv.org/abs/2501.16673) | 2025/01 | arXiv |
 | [How to Correctly do Semantic Backpropagation on Language-based Agentic Systems](https://arxiv.org/abs/2412.03624) | 2024/12 | arXiv |
 | [Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization](https://arxiv.org/abs/2412.03092) | 2024/12 | arXiv |
@@ -77,6 +79,7 @@ Transform system evaluation results into formalized training objectives:
 
 | **Paper Title** | **Date** | **Conference/Journal** | **Signals Type** |
 | -------------- | :------: | :--------------------: |:--------------------: |
+| [Optimas: Optimizing Compound AI Systems with Globally Aligned Local Rewards](https://arxiv.org/abs/2507.03041) | 2025/07 | arXiv | b2 |
 | [Aligning Compound AI Systems via System-level DPO](https://arxiv.org/abs/2502.17721) | 2025/02 | AAAI | b3 |
 | [MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning](https://arxiv.org/abs/2502.18439) | 2025/02 | arXiv | b2 |
 | [Optimizing Model Selection for Compound AI Systems](https://arxiv.org/abs/2502.14815) | 2025/02 | arXiv | a |
@@ -93,6 +96,7 @@ Transform system evaluation results into formalized training objectives:
 
 | **Paper Title** | **Date** | **Conference/Journal** |
 | -------------- | :------: | :--------------------: |
+| [$A^2Flow:$ Automating Agentic Workflow Generation via Self-Adaptive Abstraction Operators](https://arxiv.org/abs/2511.20693) | 2025/11 | AAAI |
 | [DebFlow: Automating Agent Creation via Agent Debate](https://arxiv.org/abs/2503.23781) | 2025/03 | COLM |
 | [Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies](https://arxiv.org/abs/2502.02533) | 2025/02 | arXiv |
 | [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762) | 2024/10 | ICLR |
@@ -105,6 +109,7 @@ Transform system evaluation results into formalized training objectives:
 | **Paper Title** | **Date** | **Conference/Journal** | **Signals Type** |
 | -------------- | :------: | :--------------------: |:--------------------: |
 | [MasHost Builds It All: Autonomous Multi-Agent System Directed by Reinforcement Learning](https://arxiv.org/abs/2506.08507) | 2025/06 | arXiv | b2 |
+| [AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2504.00587) | 2025/04 | arXiv | a |
 | [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://arxiv.org/abs/2504.15257) | 2025/04 | arXiv | b1, b2 |
 | [Weak-for-Strong: Training Weak Meta-Agent to Harness Strong Executors](https://arxiv.org/abs/2504.04785) | 2025/04 | arXiv | b2 |
 | [MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems](https://arxiv.org/abs/2503.03686) | 2025/03 | arXiv | b1 |
