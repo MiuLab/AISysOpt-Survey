@@ -16,6 +16,7 @@
 
 
 ## 💥 News 💥
+- [**Feb 1, 2026**] New papers were added to our survey list: [JUDGEFLOW](https://arxiv.org/abs/2601.07477) and [TEP](https://arxiv.org/abs/2601.21064). 
 - [**Dec 17, 2025**] New papers were added to our survey list: [AgenetNet](https://arxiv.org/abs/2504.00587), [MasHost](https://arxiv.org/abs/2506.08507), [Optimas](https://arxiv.org/abs/2507.03041), [TextualVerifier](https://arxiv.org/abs/2511.03739), and [A^2Flow](https://arxiv.org/abs/2511.20693) 
 - [**Aug 21, 2025**] Our survey has been accepted to EMNLP 2025! The camera-ready version has been updated.  
 - [**June 9, 2025**] Our paper is avialble on [arXiv](https://arxiv.org/abs/2506.08234) and [Huggingface](https://huggingface.co/papers/2506.08234).
@@ -64,6 +65,7 @@ Transform system evaluation results into formalized training objectives:
 ### <a id="fixed-structure-nl-feedback"></a>🔒🗨️ Fixed Structure, NL Feedback
 | **Paper Title** | **Date** | **Conference/Journal** |
 | -------------- | :------:|:--------------------:|
+| [Textual Equilibrium Propagation for Deep Compound AI Systems](https://arxiv.org/abs/2601.21064) | 2026/1 | ICLR |
 | [TextualVerifier: Verify TextGrad Step-by-Step](https://arxiv.org/abs/2511.03739) | 2025/10 | arXiv |
 | [LLM-AutoDiff: Auto-Differentiate Any LLM Workflow](https://arxiv.org/abs/2501.16673) | 2025/01 | arXiv |
 | [How to Correctly do Semantic Backpropagation on Language-based Agentic Systems](https://arxiv.org/abs/2412.03624) | 2024/12 | arXiv |
@@ -108,6 +110,7 @@ Transform system evaluation results into formalized training objectives:
 
 | **Paper Title** | **Date** | **Conference/Journal** | **Signals Type** |
 | -------------- | :------: | :--------------------: |:--------------------: |
+| [JudgeFlow: Agentic Workflow Optimization via Block Judge](https://arxiv.org/abs/2601.07477) | 2026/01 | arXiv | a |
 | [MasHost Builds It All: Autonomous Multi-Agent System Directed by Reinforcement Learning](https://arxiv.org/abs/2506.08507) | 2025/06 | arXiv | b2 |
 | [AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2504.00587) | 2025/04 | arXiv | a |
 | [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://arxiv.org/abs/2504.15257) | 2025/04 | arXiv | b1, b2 |
